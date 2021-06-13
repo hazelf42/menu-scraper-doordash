@@ -108,7 +108,7 @@ CORS(app)
 
 
 @app.route("/", methods=["GET"])
-def render(url):
+def render():
 
     categories = scrape_from_url(
         "https://www.doordash.com/en-CA/store/cactus-club-cafe-victoria-894725/")
