@@ -8,6 +8,7 @@ from requests_html import HTMLSession
 from selenium.webdriver.chrome.options import Options
 import os
 from flask import Flask, render_template, jsonify
+from flask_cors import CORS
 
 
 def bruteForceCleanTextLol(text):
@@ -102,14 +103,14 @@ def scrape_from_url(url):
 
 
 app = Flask(__name__)
-
+CORS(app)
 # if __name__ == "__main__":
 
 
 @app.route("/<string:restauranturl>", methods=["GET"])
 def render(url):
     categories = scrape_from_url(url)
-    # "https://www.doordash.com/en-CA/store/cactus-club-cafe-victoria-894725/"
+
     return jsonify(categories), 201
 
     # return (render_template("index.html", title=title))
