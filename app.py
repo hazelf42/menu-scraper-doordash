@@ -109,6 +109,7 @@ CORS(app)
 
 @app.route("/<string:url>", methods=["GET"])
 def render(url):
+    print("Hello")
     categories = scrape_from_url(url)
     print(categories)
     return jsonify(categories), 201
