@@ -109,7 +109,7 @@ CORS(app)
 @app.route("/<url>", methods=["GET"])
 def render(url):
     # url = request.args.get("url")
-    categories = scrape_from_url(url)
-    return jsonify(categories), 201
+    # categories = scrape_from_url(url)
+    return jsonify(url), 201
 
     # return (render_template("index.html", title=title))
