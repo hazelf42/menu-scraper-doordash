@@ -98,5 +98,6 @@ def scrape_from_url(url):
     return(categories)
 
 
-print(scrape_from_url(
-    "https://www.doordash.com/en-CA/store/cactus-club-cafe-victoria-894725/"))
+print("Main!")
+scrape_from_url(
+    "https://www.doordash.com/en-CA/store/cactus-club-cafe-victoria-894725/")
