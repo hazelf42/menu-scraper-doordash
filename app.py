@@ -107,7 +107,7 @@ CORS(app)
 # if __name__ == "__main__":
 
 
-@app.route("/<string:restauranturl>", methods=["GET"])
+@app.route("/<string:url>", methods=["GET"])
 def render(url):
     categories = scrape_from_url(url)
     print(categories)
