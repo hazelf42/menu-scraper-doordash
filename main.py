@@ -48,7 +48,6 @@ def scrape_from_url(url):
         lambda browser: browser.find_element_by_tag_name("h1"))
 
     soup = BeautifulSoup(browser.page_source, 'lxml')
-    return (soup.find("h1"))
     categories = {"uncategorized": {
         "name": "uncategorized", "description": "", "dishes": []}}
     menuItems = soup.find_all("div", {"data-anchor-id": "MenuItem"})
