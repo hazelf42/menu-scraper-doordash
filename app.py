@@ -33,14 +33,14 @@ def bruteForceCleanTextLol(text):
 
 def scrape_from_url(url):
     print("hello")
-    # chrome_options = webdriver.ChromeOptions()
-    # chrome_options.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
-    # chrome_options.add_argument("--headless")
-    # chrome_options.add_argument("--disable-dev-shm-usage")
-    # chrome_options.add_argument("--no-sandbox")
-    browser = webdriver.Firefox(
-        # executable_path=os.environ.get("CHROMEDRIVER_PATH"),
-        # options=chrome_options
+    chrome_options = webdriver.ChromeOptions()
+    chrome_options.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
+    chrome_options.add_argument("--headless")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+    chrome_options.add_argument("--no-sandbox")
+    browser = webdriver.Chrome(
+        executable_path=os.environ.get("CHROMEDRIVER_PATH"),
+        options=chrome_options
     )
 
     session = HTMLSession()
@@ -103,9 +103,9 @@ def scrape_from_url(url):
 # def main():
 app = Flask(__name__)
 
-# if __name__ == "__main__":
-#     @app.route("/")
-#     def render():
+if __name__ == "__main__":
+    @app.route("/")
+    def render():
     title = scrape_from_url(
         "https://www.doordash.com/en-CA/store/cactus-club-cafe-victoria-894725/")
-        return (render_template("index.html", title=title))
+    return (render_template("index.html", title=title))
