@@ -100,12 +100,13 @@ def scrape_from_url(url):
     return(soup.find("h1").text)
 
 
-# def main():
 app = Flask(__name__)
 
-if __name__ == "__main__":
-    @app.route("/")
-    def render():
-        title = scrape_from_url(
-            "https://www.doordash.com/en-CA/store/cactus-club-cafe-victoria-894725/")
-        return (render_template("index.html", title=title))
+# if __name__ == "__main__":
+
+
+@app.route("/")
+def render():
+    title = scrape_from_url(
+        "https://www.doordash.com/en-CA/store/cactus-club-cafe-victoria-894725/")
+    return (render_template("index.html", title=title))
