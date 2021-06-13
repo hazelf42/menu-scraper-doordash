@@ -7,7 +7,7 @@ from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 from requests_html import HTMLSession
 from selenium.webdriver.chrome.options import Options
 import os
-from Flask import Flask, render_template
+from flask import Flask, render_template
 
 
 def bruteForceCleanTextLol(text):
