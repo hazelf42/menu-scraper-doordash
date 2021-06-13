@@ -8,6 +8,8 @@ from requests_html import HTMLSession
 from selenium.webdriver.chrome.options import Options
 import os
 
+from flask import Flask, render_template
+
 
 def bruteForceCleanTextLol(text):
     try:
@@ -32,14 +34,14 @@ def bruteForceCleanTextLol(text):
 
 def scrape_from_url(url):
     print("hello")
-    chrome_options = webdriver.ChromeOptions()
-    chrome_options.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
-    chrome_options.add_argument("--headless")
-    chrome_options.add_argument("--disable-dev-shm-usage")
-    chrome_options.add_argument("--no-sandbox")
-    browser = webdriver.Chrome(
-        executable_path=os.environ.get("CHROMEDRIVER_PATH"),
-        options=chrome_options
+    # chrome_options = webdriver.ChromeOptions()
+    # chrome_options.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
+    # chrome_options.add_argument("--headless")
+    # chrome_options.add_argument("--disable-dev-shm-usage")
+    # chrome_options.add_argument("--no-sandbox")
+    browser = webdriver.Firefox(
+        # executable_path=os.environ.get("CHROMEDRIVER_PATH"),
+        # options=chrome_options
     )
 
     session = HTMLSession()
@@ -48,6 +50,7 @@ def scrape_from_url(url):
         lambda browser: browser.find_element_by_tag_name("h1"))
 
     soup = BeautifulSoup(browser.page_source, 'lxml')
+    return soup.find("h1").text
     categories = {"uncategorized": {
         "name": "uncategorized", "description": "", "dishes": []}}
     menuItems = soup.find_all("div", {"data-anchor-id": "MenuItem"})
@@ -98,7 +101,12 @@ def scrape_from_url(url):
     return(categories)
 
 
+# def main():
+app = Flask(__name__)
+
 if __name__ == "__main__":
-    print("Main...!")
-    print(scrape_from_url(
-        "https://www.doordash.com/en-CA/store/cactus-club-cafe-victoria-894725/"))
+    @app.route("/")
+    def render():
+        title = scrape_from_url(
+            "https://www.doordash.com/en-CA/store/cactus-club-cafe-victoria-894725/")
+        return (render_template("index.html", title=title))
