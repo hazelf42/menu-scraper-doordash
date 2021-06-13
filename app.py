@@ -107,10 +107,11 @@ CORS(app)
 # if __name__ == "__main__":
 
 
-@app.route("/<string:url>", methods=["GET"])
+@app.route("/", methods=["GET"])
 def render(url):
-    print("Hello")
-    categories = scrape_from_url(url)
+
+    categories = scrape_from_url(
+        "https://hf-menu-buddy.herokuapp.com/https://www.doordash.com/en-CA/store/cactus-club-cafe-victoria-894725/")
     print(categories)
     return jsonify(categories), 201
 
