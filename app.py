@@ -7,7 +7,7 @@ from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 from requests_html import HTMLSession
 from selenium.webdriver.chrome.options import Options
 import os
-from flask import Flask, render_template, jsonify
+from flask import Flask, jsonify, request
 from flask_cors import CORS
 
 
@@ -50,7 +50,6 @@ def scrape_from_url(url):
         lambda browser: browser.find_element_by_tag_name("h1"))
 
     soup = BeautifulSoup(browser.page_source, 'lxml')
-    return soup.find("h1").text
     categories = {"uncategorized": {
         "name": "uncategorized", "description": "", "dishes": []}}
     menuItems = soup.find_all("div", {"data-anchor-id": "MenuItem"})
@@ -107,12 +106,10 @@ CORS(app)
 # if __name__ == "__main__":
 
 
-@app.route("/", methods=["GET"])
-def render():
-
-    categories = scrape_from_url(
-        "https://www.doordash.com/en-CA/store/cactus-club-cafe-victoria-894725/")
-    print(categories)
+@app.route("/<url>", methods=["GET"])
+def render(url):
+    # url = request.args.get("url")
+    categories = scrape_from_url(url)
     return jsonify(categories), 201
 
     # return (render_template("index.html", title=title))
