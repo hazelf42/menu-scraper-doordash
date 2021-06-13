@@ -106,7 +106,7 @@ app = Flask(__name__)
 # if __name__ == "__main__":
 
 
-@app.route("/<string:restauranturl>", ["GET"])
+@app.route("/<string:restauranturl>", methods=["GET"])
 def render(url):
     categories = scrape_from_url(url)
     # "https://www.doordash.com/en-CA/store/cactus-club-cafe-victoria-894725/"
