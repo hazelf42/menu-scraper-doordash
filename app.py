@@ -7,7 +7,7 @@ from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 from requests_html import HTMLSession
 from selenium.webdriver.chrome.options import Options
 import os
-from flask import Flask, render_template
+from Flask import Flask, render_template
 
 
 def bruteForceCleanTextLol(text):
@@ -103,9 +103,9 @@ def scrape_from_url(url):
 # def main():
 app = Flask(__name__)
 
-if __name__ == "__main__":
-    @app.route("/")
-    def render():
-        title = scrape_from_url(
-            "https://www.doordash.com/en-CA/store/cactus-club-cafe-victoria-894725/")
+# if __name__ == "__main__":
+#     @app.route("/")
+#     def render():
+    title = scrape_from_url(
+        "https://www.doordash.com/en-CA/store/cactus-club-cafe-victoria-894725/")
         return (render_template("index.html", title=title))
