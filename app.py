@@ -7,7 +7,7 @@ from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 from requests_html import HTMLSession
 from selenium.webdriver.chrome.options import Options
 import os
-from flask import Flask, render_template
+from flask import Flask, render_template, jsonify
 
 
 def bruteForceCleanTextLol(text):
@@ -97,7 +97,8 @@ def scrape_from_url(url):
             newDishes = categories[catName]["dishes"]
             newDishes.append(dish)
             categories[catName]["dishes"] = newDishes
-    return(soup.find("h1").text)
+    del categories["uncategorized"]
+    return(categories)
 
 
 app = Flask(__name__)
@@ -105,9 +106,10 @@ app = Flask(__name__)
 # if __name__ == "__main__":
 
 
-@app.route("/")
-def render():
-    print("rendering...")
-    title = scrape_from_url(
-        "https://www.doordash.com/en-CA/store/cactus-club-cafe-victoria-894725/")
-    return (render_template("index.html", title=title))
+@app.route("/<string:restauranturl>", ["GET"])
+def render(url):
+    categories = scrape_from_url(url)
+    # "https://www.doordash.com/en-CA/store/cactus-club-cafe-victoria-894725/"
+    return jsonify(categories), 201
+
+    # return (render_template("index.html", title=title))
