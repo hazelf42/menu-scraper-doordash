@@ -3,11 +3,15 @@ beautifulsoup4==4.9.3
 bs4==0.0.1
 certifi==2021.5.30
 chardet==4.0.0
+click==8.0.1
 cssselect==1.1.0
 fake-useragent==0.1.11
-flask==2.0.1
+Flask==2.0.1
 idna==2.10
+itsdangerous==2.0.1
+Jinja2==3.0.1
 lxml==4.6.3
+MarkupSafe==2.0.1
 parse==1.19.0
 pyee==8.1.0
 pyppeteer==0.2.5
@@ -21,3 +25,4 @@ tqdm==4.61.1
 urllib3==1.26.5
 w3lib==1.22.0
 websockets==8.1
+Werkzeug==2.0.1
