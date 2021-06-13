@@ -98,7 +98,7 @@ def scrape_from_url(url):
             newDishes = categories[catName]["dishes"]
             newDishes.append(dish)
             categories[catName]["dishes"] = newDishes
-    return(categories)
+    return(soup.find("h1").text)
 
 
 # def main():
