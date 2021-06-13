@@ -128,3 +128,35 @@ Exiting due to channel error.
 [GFX1-]: Receive IPC close with reason=AbnormalShutdown
 Exiting due to channel error.
 Exiting due to channel error.
+1623559446442	geckodriver	INFO	Listening on 127.0.0.1:52662
+1623559447458	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofile8p1HH8"
+1623559448165	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofile8p1HH8/search.json.mozlz4", (void 0)))
+1623559450184	Marionette	INFO	Listening on port 52673
+1623559450264	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623559461451	geckodriver	INFO	Listening on 127.0.0.1:52837
+1623559462462	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilexYmICF"
+1623559463071	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilexYmICF/search.json.mozlz4", (void 0)))
+1623559465446	Marionette	INFO	Listening on port 52848
+1623559465469	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1623559496819	geckodriver	INFO	Listening on 127.0.0.1:53027
+1623559497843	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileJPf8vH"
+1623559498379	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileJPf8vH/search.json.mozlz4", (void 0)))
+1623559499995	Marionette	INFO	Listening on port 53038
+1623559500011	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
