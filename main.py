@@ -31,6 +31,8 @@ def bruteForceCleanTextLol(text):
 
 
 def scrape_from_url(url):
+    print("hello")
+    return
     chrome_options = webdriver.ChromeOptions()
     chrome_options.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
     chrome_options.add_argument("--headless")
@@ -47,7 +49,7 @@ def scrape_from_url(url):
         lambda browser: browser.find_element_by_tag_name("h1"))
 
     soup = BeautifulSoup(browser.page_source, 'lxml')
-
+    return (soup.find("h1"))
     categories = {"uncategorized": {
         "name": "uncategorized", "description": "", "dishes": []}}
     menuItems = soup.find_all("div", {"data-anchor-id": "MenuItem"})
@@ -95,9 +97,9 @@ def scrape_from_url(url):
             newDishes = categories[catName]["dishes"]
             newDishes.append(dish)
             categories[catName]["dishes"] = newDishes
-    return(categories)
+    return("HI!!")
 
 
-print("Main!")
+print("Main...!")
 scrape_from_url(
     "https://www.doordash.com/en-CA/store/cactus-club-cafe-victoria-894725/")

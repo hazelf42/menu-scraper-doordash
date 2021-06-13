@@ -7,3 +7,9 @@
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileNenLjd/search.json.mozlz4", (void 0)))
 1623553885063	Marionette	INFO	Listening on port 49325
 1623553885164	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623555013609	geckodriver	INFO	Listening on 127.0.0.1:49726
+1623555014599	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileeSIKSk"
+1623555015632	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileeSIKSk/search.json.mozlz4", (void 0)))
+1623555018516	Marionette	INFO	Listening on port 49737
+1623555018550	Marionette	WARN	TLS certificate errors will be ignored for this session
