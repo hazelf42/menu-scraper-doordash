@@ -13,3 +13,10 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileeSIKSk/search.json.mozlz4", (void 0)))
 1623555018516	Marionette	INFO	Listening on port 49737
 1623555018550	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
