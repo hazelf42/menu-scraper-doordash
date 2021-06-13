@@ -32,7 +32,7 @@ def bruteForceCleanTextLol(text):
 
 
 def scrape_from_url(url):
-    print("hello")
+    print("scraping...")
     chrome_options = webdriver.ChromeOptions()
     chrome_options.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
     chrome_options.add_argument("--headless")
@@ -107,6 +107,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def render():
+    print("rendering...")
     title = scrape_from_url(
         "https://www.doordash.com/en-CA/store/cactus-club-cafe-victoria-894725/")
     return (render_template("index.html", title=title))
