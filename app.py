@@ -109,7 +109,8 @@ CORS(app)
 @app.route("/<url>", methods=["GET"])
 def render(url):
     # url = request.args.get("url")
-    categories = scrape_from_url("https://www.doordash.com/store/"+url)
-    return jsonify(url), 201
+    a = "https://www.doordash.com/store/" + url
+    # categories = scrape_from_url(""+url)
+    return jsonify(a), 201
 
     # return (render_template("index.html", title=title))
