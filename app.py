@@ -106,7 +106,7 @@ CORS(app)
 # if __name__ == "__main__":
 
 
-@app.route("/<url>", methods=["GET"])
+@app.route("/<incompleteUrl>", methods=["GET"])
 def render(incompleteUrl):
     url = "https://www.doordash.com/store/" + incompleteUrl
     categories = scrape_from_url(url)
