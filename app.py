@@ -98,6 +98,7 @@ def scrape_from_url(url):
             newDishes.append(dish)
             categories[catName]["dishes"] = newDishes
     del categories["uncategorized"]
+    browser.close()
     return(categories)
 
 
