@@ -40,7 +40,7 @@ def cleanPrice(price):
             cleanPrice += char
 
 
-def handleImage(doordashImgUrl, ):
+def handleImage(doordashImgUrl):
     # this is SO STUPID
     # first get compressed version of image
     id = uuid.uuid4()
@@ -147,8 +147,8 @@ def scrape_from_url(url):
 
 # uncomment me
 # scrape_from_url(
-#     "https://www.doordash.com/store/red-robin-gourmet-burgers-bc-victoria-954678")
-
+    # "https://www.doordash.com/store/red-robin-gourmet-burgers-bc-victoria-954678")
+#
 
 # # Comment me out
 app = Flask(__name__)
