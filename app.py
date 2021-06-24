@@ -57,7 +57,7 @@ def scrape_from_url(url):
     cred = credentials.Certificate(
         './menu-buddy-9c09c-firebase-adminsdk-x7p8i-37b112465c.json')
     app = firebase_admin.initialize_app(cred)
-# comment me out for home use
+    # comment me out for home use
     chrome_options = webdriver.ChromeOptions()
     chrome_options.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
     chrome_options.add_argument("--headless")
@@ -69,6 +69,7 @@ def scrape_from_url(url):
     )
     # Uncomment me out:
     # browser = webdriver.Firefox()
+
     session = HTMLSession()
     page = browser.get(url)
     wait(browser, 10).until(
@@ -142,7 +143,7 @@ CORS(app)
 
 
 @app.route("/<incompleteUrl>", methods=["GET"])
-def render(incompleteUrl):
-    url = "https://www.doordash.com/store/" + incompleteUrl
+def render(urlExtension):
+    url = "https://www.doordash.com/store/" + urlExtension
     categories = scrape_from_url(url)
     return jsonify(categories), 201
