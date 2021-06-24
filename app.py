@@ -142,7 +142,7 @@ app = Flask(__name__)
 CORS(app)
 
 
-@app.route("/<incompleteUrl>", methods=["GET"])
+@app.route("/<urlExtension>", methods=["GET"])
 def render(urlExtension):
     url = "https://www.doordash.com/store/" + urlExtension
     categories = scrape_from_url(url)
