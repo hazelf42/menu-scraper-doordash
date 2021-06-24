@@ -123,12 +123,12 @@ def scrape_from_url(url):
                 dish["price"] = cleanPrice(t[3].text)
             except:
                 pass
-            try:
-                img = button.findAll("img")
-                if len(img) > 0:
-                    dish["imageUrl"] = handleImage(img[0]['srcset'].split()[0])
-            except:
-                pass
+            # try:
+                # img = button.findAll("img")
+                # if len(img) > 0:
+                #     dish["imageUrl"] = handleImage(img[0]['srcset'].split()[0])
+            # except:
+            #     pass
         if catName not in categories:
             categories[catName] = {"name": catName,
                                    "description": catDesc, "dishes": [dish]}
