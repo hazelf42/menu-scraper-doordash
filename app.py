@@ -102,7 +102,6 @@ def scrape_from_url(url):
             catName = "uncategorized"
         buttons = menuItem.findAll("button")
         for button in buttons:
-
             t = button.findAll("span")
             try:
                 dish["name"] = t[1].text
@@ -120,6 +119,8 @@ def scrape_from_url(url):
                 img = button.findAll("img")
                 if len(img) > 0:
                     dish["imageUrl"] = handleImage(img[0]['srcset'].split()[0])
+            except:
+                pass
         if catName not in categories:
             categories[catName] = {"name": catName,
                                    "description": catDesc, "dishes": [dish]}
