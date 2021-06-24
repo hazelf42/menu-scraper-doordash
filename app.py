@@ -43,7 +43,7 @@ def handleImage(doordashImgUrl, ):
 
     # Upload it to firebase
     bucket = storage.bucket("menu-buddy-9c09c.appspot.com")
-    blob = bucket.blob('images/${id}.jpg')
+    blob = bucket.blob(f'images/{id}.jpg')
     # should i make separate buckets for each restaurant
     blob.upload_from_string(response.content, content_type='image/jpeg')
 
