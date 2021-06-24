@@ -32,6 +32,14 @@ def replaceTextBetween(originalText, replacementText):
     return newString
 
 
+def cleanPrice(price):
+    cleanPrice = ""
+    allowedChars = list("1234567890,.")
+    for char in price:
+        if char in allowedChars:
+            cleanPrice += char
+
+
 def handleImage(doordashImgUrl, ):
     # this is SO STUPID
     # first get compressed version of image
@@ -112,7 +120,7 @@ def scrape_from_url(url):
             except:
                 pass
             try:
-                dish["price"] = t[3].text
+                dish["price"] = cleanPrice(t[3].text)
             except:
                 pass
             try:
