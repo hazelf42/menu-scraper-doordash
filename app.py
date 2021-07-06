@@ -62,9 +62,12 @@ def handleImage(doordashImgUrl):
 
 def scrape_from_url(url):
 
-    cred = credentials.Certificate(
-        './menu-buddy-9c09c-firebase-adminsdk-x7p8i-37b112465c.json')
-    app = firebase_admin.initialize_app(cred)
+    try:
+        cred = credentials.Certificate(
+            './menu-buddy-9c09c-firebase-adminsdk-x7p8i-37b112465c.json')
+        app = firebase_admin.initialize_app(cred)
+    except:
+        pass
     # comment me out for home use
     chrome_options = webdriver.ChromeOptions()
     chrome_options.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
