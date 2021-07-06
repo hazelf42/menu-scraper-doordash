@@ -145,6 +145,8 @@ CORS(app)
 
 @app.route("/<urlExtension>", methods=["GET"])
 def render(urlExtension):
+
     url = "https://www.doordash.com/store/" + urlExtension
+    print(url)
     categories = scrape_from_url(url)
     return jsonify(categories), 201
