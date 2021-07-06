@@ -140,16 +140,15 @@ def scrape_from_url(url):
 
 
 # Comment me out
+cred = credentials.Certificate(
+    './menu-buddy-9c09c-firebase-adminsdk-x7p8i-37b112465c.json')
+app = firebase_admin.initialize_app(cred)
 app = Flask(__name__)
 CORS(app)
 
 
 @app.route("/<urlExtension>", methods=["GET"])
 def render(urlExtension):
-    print("init")
-    cred = credentials.Certificate(
-        './menu-buddy-9c09c-firebase-adminsdk-x7p8i-37b112465c.json')
-    app = firebase_admin.initialize_app(cred)
     url = "https://www.doordash.com/store/" + urlExtension
     categories = scrape_from_url(url)
     return jsonify(categories), 201
