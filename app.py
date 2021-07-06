@@ -146,6 +146,7 @@ CORS(app)
 
 @app.route("/<urlExtension>", methods=["GET"])
 def render(urlExtension):
+    print("init")
     cred = credentials.Certificate(
         './menu-buddy-9c09c-firebase-adminsdk-x7p8i-37b112465c.json')
     app = firebase_admin.initialize_app(cred)
