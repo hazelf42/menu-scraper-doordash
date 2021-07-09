@@ -87,6 +87,8 @@ def scrape_from_url(url):
         cat = menuItem.parent.parent
 
         if cat is not None:
+            catName = ""
+            catDesc = ""
             try:
                 catName = cat.find("h2").text
                 dish["categoryName"] = catName
