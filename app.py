@@ -153,7 +153,6 @@ def scrape_from_url(url):
     except:
         pass
     browser.close()
-    print(categories)
     return(categories)
 
 
