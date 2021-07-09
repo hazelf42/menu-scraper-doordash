@@ -85,6 +85,7 @@ def scrape_from_url(url):
     categories = {"uncategorized": {
         "name": "uncategorized", "description": "", "dishes": []}}
     menuItems = soup.find_all("div", {"data-anchor-id": "MenuItem"})
+    index = 0
     for menuItem in menuItems:
         dish = {
             "name": "",
@@ -140,8 +141,10 @@ def scrape_from_url(url):
             # except:
             #     pass
         if catName not in categories:
+
             categories[catName] = {"name": catName,
-                                   "description": catDesc, "dishes": [dish]}
+                                   "description": catDesc, "dishes": [dish], "index": index}
+            index += 1
         else:
             newDishes = categories[catName]["dishes"]
             newDishes.append(dish)
