@@ -55,17 +55,17 @@ def handleImage(doordashImgUrl, ):
 def scrape_from_url(url):
 
     # comment me out for home use
-    chrome_options = webdriver.ChromeOptions()
-    chrome_options.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
-    chrome_options.add_argument("--headless")
-    chrome_options.add_argument("--disable-dev-shm-usage")
-    chrome_options.add_argument("--no-sandbox")
-    browser = webdriver.Chrome(
-        executable_path=os.environ.get("CHROMEDRIVER_PATH"),
-        options=chrome_options
-    )
+    # chrome_options = webdriver.ChromeOptions()
+    # chrome_options.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
+    # chrome_options.add_argument("--headless")
+    # chrome_options.add_argument("--disable-dev-shm-usage")
+    # chrome_options.add_argument("--no-sandbox")
+    # browser = webdriver.Chrome(
+    #     executable_path=os.environ.get("CHROMEDRIVER_PATH"),
+    #     options=chrome_options
+    # )
     # Uncomment me out:
-    # browser = webdriver.Firefox()
+    browser = webdriver.Firefox()
 
     session = HTMLSession()
     page = browser.get(url)
@@ -85,18 +85,26 @@ def scrape_from_url(url):
         }
 
         cat = menuItem.parent.parent
-
         if cat is not None:
             catName = ""
             catDesc = ""
             try:
-                catName = cat.find("h2").text
+                if cat.find("h2"):
+                    catName = cat.find("h2").text
+
+                else:
+                    catName = menuItem.parent.parent.parent.find("h2").text
+
                 dish["categoryName"] = catName
             except:
                 pass
             try:
-                catDesc = cat.find(
-                    "h3").text
+                if cat.find("h3"):
+                    catDesc = cat.find(
+                        "h3").text
+                else:
+                    catDesc = menuItem.parent.parent.parent.find("h3").text
+                dish["categoryDescription"] = catName
             except:
                 pass
         else:
@@ -136,25 +144,26 @@ def scrape_from_url(url):
     except:
         pass
     browser.close()
+    print(categories)
     return(categories)
 
 
 # uncomment me
-# scrape_from_url(
-#     "https://www.doordash.com/store/red-robin-gourmet-burgers-bc-victoria-954678")
-#
+scrape_from_url(
+    "https://www.doordash.com/store/cactus-club-cafe-victoria-894725")
+
 
 # Comment me out
-cred = credentials.Certificate(
-    './menu-buddy-9c09c-firebase-adminsdk-x7p8i-37b112465c.json')
-app = firebase_admin.initialize_app(cred)
-app = Flask(__name__)
-CORS(app)
+# cred = credentials.Certificate(
+#     './menu-buddy-9c09c-firebase-adminsdk-x7p8i-37b112465c.json')
+# app = firebase_admin.initialize_app(cred)
+# app = Flask(__name__)
+# CORS(app)
 
 
-@app.route("/<urlExtension>", methods=["GET"])
-def render(urlExtension):
-    url = "https://www.doordash.com/store/" + urlExtension
-    categories = scrape_from_url(url)
-    print("Returning!")
-    return jsonify(categories), 201
+# @app.route("/<urlExtension>", methods=["GET"])
+# def render(urlExtension):
+#     url = "https://www.doordash.com/store/" + urlExtension
+#     categories = scrape_from_url(url)
+#     print("Returning!")
+#     return jsonify(categories), 201
