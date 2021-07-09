@@ -83,16 +83,18 @@ def scrape_from_url(url):
             "price": "",
             "categoryName": "",
         }
-        cat = menuItem.parent.previous_sibling
+
+        cat = menuItem.parent.parent
 
         if cat is not None:
             try:
-                catName = menuItem.parent.previous_sibling.find("h2").text
+                catName = cat.find("h2").text
                 dish["categoryName"] = catName
             except:
                 pass
             try:
-                catDesc = menuItem.parent.previous_sibling.find("h3").text
+                catDesc = cat.find(
+                    "h3").text
             except:
                 pass
         else:
@@ -134,10 +136,11 @@ def scrape_from_url(url):
     browser.close()
     return(categories)
 
+
 # uncomment me
 # scrape_from_url(
 #     "https://www.doordash.com/store/red-robin-gourmet-burgers-bc-victoria-954678")
-
+#
 
 # Comment me out
 cred = credentials.Certificate(
@@ -151,5 +154,5 @@ CORS(app)
 def render(urlExtension):
     url = "https://www.doordash.com/store/" + urlExtension
     categories = scrape_from_url(url)
-    print(categories)
+    print("Returning!")
     return jsonify(categories), 201
