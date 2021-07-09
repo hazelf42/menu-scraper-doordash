@@ -160,3 +160,1710 @@ Exiting due to channel error.
 Exiting due to channel error.
 [GFX1-]: Receive IPC close with reason=AbnormalShutdown
 Exiting due to channel error.
+1624567994523	geckodriver	INFO	Listening on 127.0.0.1:50495
+1624567995559	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileXBOSUo"
+1624567999854	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileXBOSUo/search.json.mozlz4", (void 0)))
+1624568001984	Marionette	INFO	Listening on port 50507
+1624568013052	geckodriver	INFO	Listening on 127.0.0.1:50626
+1624568014070	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilerq7fDc"
+1624568014551	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilerq7fDc/search.json.mozlz4", (void 0)))
+1624568016410	Marionette	INFO	Listening on port 50637
+1624568016456	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/ad30e8105c9ab01b5ee9993598061a019fe25ca8/ssr-static-assets/_next/static/chunks/c92988cb7105dbc58f7d8c1b56c0498b99a16742.6f3c0b8ba165dd31e798.js, line 1: unreachable code after return statement
+1624568064255	geckodriver	INFO	Listening on 127.0.0.1:51033
+1624568065296	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileuTmSxp"
+1624568065826	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileuTmSxp/search.json.mozlz4", (void 0)))
+1624568073641	Marionette	INFO	Listening on port 51044
+1624568073760	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624568136025	geckodriver	INFO	Listening on 127.0.0.1:51593
+1624568137040	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileKzns8E"
+1624568137451	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileKzns8E/search.json.mozlz4", (void 0)))
+1624568139292	Marionette	INFO	Listening on port 51604
+1624568139410	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1624568216972	geckodriver	INFO	Listening on 127.0.0.1:52140
+1624568217992	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileyOkUEs"
+1624568218425	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileyOkUEs/search.json.mozlz4", (void 0)))
+1624568220171	Marionette	INFO	Listening on port 52151
+1624568220257	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1624568255414	geckodriver	INFO	Listening on 127.0.0.1:52513
+1624568256427	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofile1UfJZM"
+1624568256871	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofile1UfJZM/search.json.mozlz4", (void 0)))
+1624568258639	Marionette	INFO	Listening on port 52525
+1624568258697	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1624568275166	geckodriver	INFO	Listening on 127.0.0.1:52817
+1624568276183	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileQmLD1e"
+1624568276740	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileQmLD1e/search.json.mozlz4", (void 0)))
+1624568278462	Marionette	INFO	Listening on port 52828
+1624568278560	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1624568333314	geckodriver	INFO	Listening on 127.0.0.1:53248
+1624568334333	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilesphuFw"
+1624568334773	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilesphuFw/search.json.mozlz4", (void 0)))
+1624568336624	Marionette	INFO	Listening on port 53259
+1624568336710	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624568361828	geckodriver	INFO	Listening on 127.0.0.1:53579
+1624568362843	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilei7LiiH"
+1624568363354	Marionette	INFO	Marionette enabled
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 1346: uncaught exception: undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilei7LiiH/search.json.mozlz4", (void 0)))
+1624568365097	Marionette	INFO	Listening on port 53590
+1624568365131	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1624573587866	geckodriver	INFO	Listening on 127.0.0.1:60989
+1624573588874	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileZLb7Tw"
+1624573589522	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileZLb7Tw/search.json.mozlz4", (void 0)))
+1624573591937	Marionette	INFO	Listening on port 60996
+1624573592021	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/ad30e8105c9ab01b5ee9993598061a019fe25ca8/ssr-static-assets/_next/static/chunks/c92988cb7105dbc58f7d8c1b56c0498b99a16742.6f3c0b8ba165dd31e798.js, line 1: unreachable code after return statement
+1624573652193	geckodriver	INFO	Listening on 127.0.0.1:61200
+1624573653215	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileH3Jk8K"
+1624573653715	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileH3Jk8K/search.json.mozlz4", (void 0)))
+1624573655615	Marionette	INFO	Listening on port 61207
+1624573655716	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624573797295	geckodriver	INFO	Listening on 127.0.0.1:61519
+1624573798304	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilecpa1rC"
+1624573798874	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilecpa1rC/search.json.mozlz4", (void 0)))
+1624573801988	Marionette	INFO	Listening on port 61526
+1624573802035	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/ad30e8105c9ab01b5ee9993598061a019fe25ca8/ssr-static-assets/_next/static/chunks/c92988cb7105dbc58f7d8c1b56c0498b99a16742.6f3c0b8ba165dd31e798.js, line 1: unreachable code after return statement
+1624573808945	Marionette	INFO	Stopped listening on port 61526
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-T44F8F&l=dataLayer, line 5102: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-T44F8F&l=dataLayer, line 5134: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624573823952	geckodriver	INFO	Listening on 127.0.0.1:61674
+1624573824966	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileeraaTX"
+1624573825489	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileeraaTX/search.json.mozlz4", (void 0)))
+1624573827321	Marionette	INFO	Listening on port 61681
+1624573827435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624573872087	Marionette	INFO	Stopped listening on port 61681
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1624576057853	geckodriver	INFO	Listening on 127.0.0.1:62353
+1624576058864	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilevTyGY4"
+1624576059446	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilevTyGY4/search.json.mozlz4", (void 0)))
+1624576061151	Marionette	INFO	Listening on port 62360
+1624576061241	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624576108025	Marionette	INFO	Stopped listening on port 62360
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624576365856	Marionette	INFO	Stopped listening on port 60996
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624576367177	Marionette	INFO	Stopped listening on port 61207
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625531239051	geckodriver	INFO	Listening on 127.0.0.1:55129
+1625531239933	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilePYQobO"
+1625531240498	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilePYQobO/search.json.mozlz4", (void 0)))
+1625531242885	Marionette	INFO	Listening on port 55136
+1625531242942	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+1625531247343	Marionette	INFO	Stopped listening on port 55136
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 687))
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-T44F8F&l=dataLayer, line 5383: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-T44F8F&l=dataLayer, line 5415: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625531270348	geckodriver	INFO	Listening on 127.0.0.1:55280
+1625531270359	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofile4BzYSr"
+1625531270804	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofile4BzYSr/search.json.mozlz4", (void 0)))
+1625531272858	Marionette	INFO	Listening on port 55285
+1625531272942	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625531281373	Marionette	INFO	Stopped listening on port 55285
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625531343335	geckodriver	INFO	Listening on 127.0.0.1:55495
+1625531343343	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileiKMR3P"
+1625531343864	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileiKMR3P/search.json.mozlz4", (void 0)))
+1625531345747	Marionette	INFO	Listening on port 55500
+1625531345815	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625531353748	Marionette	INFO	Stopped listening on port 55500
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625531366755	geckodriver	INFO	Listening on 127.0.0.1:55685
+1625531366764	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileYTsB6j"
+1625531367251	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileYTsB6j/search.json.mozlz4", (void 0)))
+1625531369057	Marionette	INFO	Listening on port 55690
+1625531369144	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+1625531377583	Marionette	INFO	Stopped listening on port 55690
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625531440429	geckodriver	INFO	Listening on 127.0.0.1:55891
+1625531441438	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileQC66rP"
+1625531441984	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileQC66rP/search.json.mozlz4", (void 0)))
+1625531443868	Marionette	INFO	Listening on port 55899
+1625531443917	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625531450155	Marionette	INFO	Stopped listening on port 55899
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625531465229	geckodriver	INFO	Listening on 127.0.0.1:56063
+1625531466246	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofile84o8mL"
+1625531466730	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofile84o8mL/search.json.mozlz4", (void 0)))
+1625531468430	Marionette	INFO	Listening on port 56070
+1625531468513	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625531474201	Marionette	INFO	Stopped listening on port 56070
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625531519249	geckodriver	INFO	Listening on 127.0.0.1:56242
+1625531520262	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilelZt5V8"
+1625531520802	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilelZt5V8/search.json.mozlz4", (void 0)))
+1625531522535	Marionette	INFO	Listening on port 56249
+1625531522661	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625531523700	Marionette	INFO	Stopped listening on port 56249
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625531534109	geckodriver	INFO	Listening on 127.0.0.1:56324
+1625531534117	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilerCQXoN"
+1625531534481	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilerCQXoN/search.json.mozlz4", (void 0)))
+1625531536455	Marionette	INFO	Listening on port 56329
+1625531536500	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1625531548926	geckodriver	INFO	Listening on 127.0.0.1:56515
+1625531549939	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileLNa3LJ"
+1625531550511	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileLNa3LJ/search.json.mozlz4", (void 0)))
+1625531552282	Marionette	INFO	Listening on port 56522
+1625531552328	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625531852435	Marionette	INFO	Stopped listening on port 56329
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625531853466	Marionette	INFO	Stopped listening on port 56522
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625801294532	geckodriver	INFO	Listening on 127.0.0.1:64970
+1625801295549	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileoEYC5L"
+1625801296324	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileoEYC5L/search.json.mozlz4", (void 0)))
+1625801305659	Marionette	INFO	Listening on port 64977
+1625801305728	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+1625801309000	Marionette	INFO	Stopped listening on port 64977
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-T44F8F&l=dataLayer, line 5506: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-T44F8F&l=dataLayer, line 5483: TypeError: c.l is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625801338144	geckodriver	INFO	Listening on 127.0.0.1:65194
+1625801338162	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileX1J8Be"
+1625801338576	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileX1J8Be/search.json.mozlz4", (void 0)))
+1625801346305	Marionette	INFO	Listening on port 65199
+1625801346321	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+1625801497696	Marionette	INFO	Stopped listening on port 65199
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625801514900	geckodriver	INFO	Listening on 127.0.0.1:65449
+1625801514912	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileDxga85"
+1625801515329	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileDxga85/search.json.mozlz4", (void 0)))
+1625801517252	Marionette	INFO	Listening on port 65454
+1625801517292	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+1625801522143	Marionette	INFO	Stopped listening on port 65454
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625801680865	geckodriver	INFO	Listening on 127.0.0.1:49439
+1625801681875	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileRJ5WIB"
+1625801682388	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileRJ5WIB/search.json.mozlz4", (void 0)))
+1625801684425	Marionette	INFO	Listening on port 49446
+1625801684490	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+1625801736137	geckodriver	INFO	Listening on 127.0.0.1:49639
+1625801737145	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofile6g4MQF"
+1625801737922	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofile6g4MQF/search.json.mozlz4", (void 0)))
+1625801740091	Marionette	INFO	Listening on port 49646
+1625801740170	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625801753324	Marionette	INFO	Stopped listening on port 49646
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625801789426	geckodriver	INFO	Listening on 127.0.0.1:49835
+1625801790440	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilee8B7mq"
+1625801790949	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilee8B7mq/search.json.mozlz4", (void 0)))
+1625801792749	Marionette	INFO	Listening on port 49842
+1625801792837	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1625801834893	geckodriver	INFO	Listening on 127.0.0.1:50025
+1625801835906	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileHH6VX1"
+1625801836700	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileHH6VX1/search.json.mozlz4", (void 0)))
+1625801839083	Marionette	INFO	Listening on port 50032
+1625801839120	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+1625801842801	Marionette	INFO	Stopped listening on port 50032
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 687))
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-T44F8F&l=dataLayer, line 5506: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625801853016	geckodriver	INFO	Listening on 127.0.0.1:50175
+1625801853026	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofiletgjNLf"
+1625801853380	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofiletgjNLf/search.json.mozlz4", (void 0)))
+1625801855337	Marionette	INFO	Listening on port 50180
+1625801855418	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+1625801858524	Marionette	INFO	Stopped listening on port 50180
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 687))
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625801871394	geckodriver	INFO	Listening on 127.0.0.1:50327
+1625801872411	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileZyI7hQ"
+1625801872795	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileZyI7hQ/search.json.mozlz4", (void 0)))
+1625801874557	Marionette	INFO	Listening on port 50334
+1625801874594	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1625801899702	geckodriver	INFO	Listening on 127.0.0.1:50524
+1625801900711	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofile1u695W"
+1625801901178	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofile1u695W/search.json.mozlz4", (void 0)))
+1625801903246	Marionette	INFO	Listening on port 50531
+1625801903315	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+1625801906340	Marionette	INFO	Stopped listening on port 50531
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 687))
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1625801975754	geckodriver	INFO	Listening on 127.0.0.1:50916
+1625801976772	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileswPsDp"
+1625801977360	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileswPsDp/search.json.mozlz4", (void 0)))
+1625801979337	Marionette	INFO	Listening on port 50927
+1625801979384	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625801989751	Marionette	INFO	Stopped listening on port 50927
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625802070902	geckodriver	INFO	Listening on 127.0.0.1:51331
+1625802071907	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileqx8l68"
+1625802072554	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileqx8l68/search.json.mozlz4", (void 0)))
+1625802074501	Marionette	INFO	Listening on port 51338
+1625802074527	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+1625802079982	Marionette	INFO	Stopped listening on port 51338
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625802088525	geckodriver	INFO	Listening on 127.0.0.1:51502
+1625802088537	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileQJ93w6"
+1625802088976	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileQJ93w6/search.json.mozlz4", (void 0)))
+1625802090677	Marionette	INFO	Listening on port 51507
+1625802090732	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://js-agent.newrelic.com/nr-spa-1130.min.js, line 1: TypeError: n is null
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1625802217812	Marionette	INFO	Stopped listening on port 51507
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625802233965	geckodriver	INFO	Listening on 127.0.0.1:51703
+1625802234980	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileHmO5ji"
+1625802235504	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileHmO5ji/search.json.mozlz4", (void 0)))
+1625802237494	Marionette	INFO	Listening on port 51710
+1625802237590	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+1625802260740	geckodriver	INFO	Listening on 127.0.0.1:51889
+1625802261756	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileuKYtSE"
+1625802262224	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileuKYtSE/search.json.mozlz4", (void 0)))
+1625802266048	Marionette	INFO	Listening on port 51896
+1625802266132	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625802271850	Marionette	INFO	Stopped listening on port 51896
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1625802304890	geckodriver	INFO	Listening on 127.0.0.1:52096
+1625802305908	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofile4FFNmq"
+1625802306345	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofile4FFNmq/search.json.mozlz4", (void 0)))
+1625802308234	Marionette	INFO	Listening on port 52103
+1625802308336	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625802316024	Marionette	INFO	Stopped listening on port 52103
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625802346082	geckodriver	INFO	Listening on 127.0.0.1:52283
+1625802347098	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileiZfdjS"
+1625802347537	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileiZfdjS/search.json.mozlz4", (void 0)))
+1625802349439	Marionette	INFO	Listening on port 52290
+1625802349506	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625802355963	Marionette	INFO	Stopped listening on port 52290
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625802364649	geckodriver	INFO	Listening on 127.0.0.1:52468
+1625802365658	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilendKbMY"
+1625802366234	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilendKbMY/search.json.mozlz4", (void 0)))
+1625802368014	Marionette	INFO	Listening on port 52475
+1625802368059	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625802380468	Marionette	INFO	Stopped listening on port 52475
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1625805933469	geckodriver	INFO	Listening on 127.0.0.1:52987
+1625805934496	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilefYvioU"
+1625805935130	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilefYvioU/search.json.mozlz4", (void 0)))
+1625805937243	Marionette	INFO	Listening on port 52994
+1625805937295	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1625805965592	geckodriver	INFO	Listening on 127.0.0.1:53182
+1625805966604	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofile5W0j1o"
+1625805967118	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofile5W0j1o/search.json.mozlz4", (void 0)))
+1625805968915	Marionette	INFO	Listening on port 53190
+1625805968992	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+1625806004432	geckodriver	INFO	Listening on 127.0.0.1:53367
+1625806005448	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileT9Zrdu"
+1625806005911	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileT9Zrdu/search.json.mozlz4", (void 0)))
+1625806007777	Marionette	INFO	Listening on port 53374
+1625806007828	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1625806096065	geckodriver	INFO	Listening on 127.0.0.1:53587
+1625806097080	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileO0CTIX"
+1625806097603	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileO0CTIX/search.json.mozlz4", (void 0)))
+1625806099366	Marionette	INFO	Listening on port 53595
+1625806099477	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1625806121361	geckodriver	INFO	Listening on 127.0.0.1:53781
+1625806122373	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileTJw0qA"
+1625806122812	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileTJw0qA/search.json.mozlz4", (void 0)))
+1625806124846	Marionette	INFO	Listening on port 53788
+1625806124868	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625806129923	Marionette	INFO	Stopped listening on port 53788
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625806198502	Marionette	INFO	Stopped listening on port 53190
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625806200225	Marionette	INFO	Stopped listening on port 53595
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625806206560	Marionette	INFO	Stopped listening on port 52994
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625806853291	geckodriver	INFO	Listening on 127.0.0.1:54090
+1625806854304	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilelU9B4W"
+1625806854835	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilelU9B4W/search.json.mozlz4", (void 0)))
+1625806856666	Marionette	INFO	Listening on port 54097
+1625806856694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+1625806859989	Marionette	INFO	Stopped listening on port 54097
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 687))
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625806886371	geckodriver	INFO	Listening on 127.0.0.1:54241
+1625806887389	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileTn4Xqf"
+1625806887833	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileTn4Xqf/search.json.mozlz4", (void 0)))
+1625806889598	Marionette	INFO	Listening on port 54248
+1625806889667	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625806897973	Marionette	INFO	Stopped listening on port 54248
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625806962873	geckodriver	INFO	Listening on 127.0.0.1:54435
+1625806963876	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileVQnbbX"
+1625806964585	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileVQnbbX/search.json.mozlz4", (void 0)))
+1625806966503	Marionette	INFO	Listening on port 54442
+1625806966549	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625806976616	geckodriver	INFO	Listening on 127.0.0.1:54505
+1625806977634	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilefy7rnt"
+1625806978128	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilefy7rnt/search.json.mozlz4", (void 0)))
+1625806980162	Marionette	INFO	Listening on port 54512
+1625806980212	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+1625806996325	geckodriver	INFO	Listening on 127.0.0.1:54684
+1625806996332	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofile9Im1Ui"
+1625806996761	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofile9Im1Ui/search.json.mozlz4", (void 0)))
+1625806998378	Marionette	INFO	Listening on port 54689
+1625806998414	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1625807026290	geckodriver	INFO	Listening on 127.0.0.1:54861
+1625807027307	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilesOffIZ"
+1625807027748	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilesOffIZ/search.json.mozlz4", (void 0)))
+1625807029510	Marionette	INFO	Listening on port 54868
+1625807029589	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+1625807037401	Marionette	INFO	Stopped listening on port 54868
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625807060914	geckodriver	INFO	Listening on 127.0.0.1:55035
+1625807061927	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileBmJ5nV"
+1625807062349	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileBmJ5nV/search.json.mozlz4", (void 0)))
+1625807064302	Marionette	INFO	Listening on port 55043
+1625807064419	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625807075615	Marionette	INFO	Stopped listening on port 55043
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625807093438	geckodriver	INFO	Listening on 127.0.0.1:55221
+1625807094452	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofile0ev2fV"
+1625807094902	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofile0ev2fV/search.json.mozlz4", (void 0)))
+1625807096748	Marionette	INFO	Listening on port 55228
+1625807096833	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+1625807101239	Marionette	INFO	Stopped listening on port 55228
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625807139434	geckodriver	INFO	Listening on 127.0.0.1:55406
+1625807139443	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileidBlHV"
+1625807139871	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileidBlHV/search.json.mozlz4", (void 0)))
+1625807141454	Marionette	INFO	Listening on port 55411
+1625807141519	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625807146585	Marionette	INFO	Stopped listening on port 55411
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625807152681	geckodriver	INFO	Listening on 127.0.0.1:55579
+1625807153695	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileL7UGSJ"
+1625807154123	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileL7UGSJ/search.json.mozlz4", (void 0)))
+1625807155859	Marionette	INFO	Listening on port 55586
+1625807155874	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+1625807159954	Marionette	INFO	Stopped listening on port 55586
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-T44F8F&l=dataLayer, line 5506: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625807185979	geckodriver	INFO	Listening on 127.0.0.1:55721
+1625807186989	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileRhXYXp"
+1625807187498	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileRhXYXp/search.json.mozlz4", (void 0)))
+1625807189168	Marionette	INFO	Listening on port 55728
+1625807189272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+1625807194268	Marionette	INFO	Stopped listening on port 55728
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625807199355	geckodriver	INFO	Listening on 127.0.0.1:55888
+1625807199364	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileO24R8y"
+1625807199766	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileO24R8y/search.json.mozlz4", (void 0)))
+1625807201524	Marionette	INFO	Listening on port 55893
+1625807201543	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625807206818	Marionette	INFO	Stopped listening on port 55893
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625807225985	geckodriver	INFO	Listening on 127.0.0.1:56062
+1625807225994	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileOTB856"
+1625807226368	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileOTB856/search.json.mozlz4", (void 0)))
+1625807228103	Marionette	INFO	Listening on port 56067
+1625807228177	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+1625807234056	Marionette	INFO	Stopped listening on port 56067
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 687))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625807267267	geckodriver	INFO	Listening on 127.0.0.1:56216
+1625807267275	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileH3LqWg"
+1625807267627	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileH3LqWg/search.json.mozlz4", (void 0)))
+1625807269385	Marionette	INFO	Listening on port 56221
+1625807269460	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625807279092	Marionette	INFO	Stopped listening on port 56221
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625807288402	geckodriver	INFO	Listening on 127.0.0.1:56395
+1625807289413	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileuUpHlt"
+1625807289917	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileuUpHlt/search.json.mozlz4", (void 0)))
+1625807291603	Marionette	INFO	Listening on port 56402
+1625807291697	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+1625807295632	Marionette	INFO	Stopped listening on port 56402
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625807313786	geckodriver	INFO	Listening on 127.0.0.1:56561
+1625807323669	geckodriver	INFO	Listening on 127.0.0.1:56573
+1625807323682	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileL3e9jp"
+1625807324114	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileL3e9jp/search.json.mozlz4", (void 0)))
+1625807325929	Marionette	INFO	Listening on port 56578
+1625807325978	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+1625807331548	Marionette	INFO	Stopped listening on port 56578
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625807371532	geckodriver	INFO	Listening on 127.0.0.1:56739
+1625807372548	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileNmkE9Q"
+1625807373120	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileNmkE9Q/search.json.mozlz4", (void 0)))
+1625807375089	Marionette	INFO	Listening on port 56746
+1625807375147	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+1625807381717	Marionette	INFO	Stopped listening on port 56746
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-T44F8F&l=dataLayer, line 5506: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625807423093	geckodriver	INFO	Listening on 127.0.0.1:56915
+1625807423104	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilecPUcoX"
+1625807423477	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilecPUcoX/search.json.mozlz4", (void 0)))
+1625807425224	Marionette	INFO	Listening on port 56920
+1625807425276	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://js-agent.newrelic.com/nr-spa-1130.min.js, line 1: TypeError: n is null
+1625807433997	Marionette	INFO	Stopped listening on port 56920
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1625807529720	geckodriver	INFO	Listening on 127.0.0.1:57104
+1625807530733	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilen9LMyV"
+1625807531184	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilen9LMyV/search.json.mozlz4", (void 0)))
+1625807533294	Marionette	INFO	Listening on port 57111
+1625807533373	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+1625807538122	Marionette	INFO	Stopped listening on port 57111
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625807573663	geckodriver	INFO	Listening on 127.0.0.1:57277
+1625807574673	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofile2pcmzd"
+1625807575166	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofile2pcmzd/search.json.mozlz4", (void 0)))
+1625807576880	Marionette	INFO	Listening on port 57284
+1625807576958	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625807582935	Marionette	INFO	Stopped listening on port 57284
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625807622215	geckodriver	INFO	Listening on 127.0.0.1:57446
+1625807622223	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileBaIUy5"
+1625807622658	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileBaIUy5/search.json.mozlz4", (void 0)))
+1625807624343	Marionette	INFO	Listening on port 57451
+1625807624423	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+1625807633297	Marionette	INFO	Stopped listening on port 57451
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625807663698	geckodriver	INFO	Listening on 127.0.0.1:57611
+1625807664715	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofile5Kbwhe"
+1625807665132	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofile5Kbwhe/search.json.mozlz4", (void 0)))
+1625807666883	Marionette	INFO	Listening on port 57618
+1625807666917	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625807674437	Marionette	INFO	Stopped listening on port 57618
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625807691664	geckodriver	INFO	Listening on 127.0.0.1:57797
+1625807692681	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofiler3TGPq"
+1625807693143	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofiler3TGPq/search.json.mozlz4", (void 0)))
+1625807695056	Marionette	INFO	Listening on port 57804
+1625807695162	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+1625807701077	Marionette	INFO	Stopped listening on port 57804
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625807706193	geckodriver	INFO	Listening on 127.0.0.1:57966
+1625807706203	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileThd3xP"
+1625807706547	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileThd3xP/search.json.mozlz4", (void 0)))
+1625807714364	Marionette	INFO	Listening on port 57971
+1625807714387	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625807720913	Marionette	INFO	Stopped listening on port 57971
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625807759070	geckodriver	INFO	Listening on 127.0.0.1:58202
+1625807759079	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileAcSn6X"
+1625807759433	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileAcSn6X/search.json.mozlz4", (void 0)))
+1625807761174	Marionette	INFO	Listening on port 58207
+1625807761262	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+1625807768514	Marionette	INFO	Stopped listening on port 58207
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625807855619	geckodriver	INFO	Listening on 127.0.0.1:58379
+1625807856639	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileHCA4xQ"
+1625807857193	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileHCA4xQ/search.json.mozlz4", (void 0)))
+1625807859103	Marionette	INFO	Listening on port 58386
+1625807859223	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625807868063	Marionette	INFO	Stopped listening on port 58386
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625807946065	geckodriver	INFO	Listening on 127.0.0.1:58632
+1625807947081	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilePaU7OP"
+1625807947535	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofilePaU7OP/search.json.mozlz4", (void 0)))
+1625807949494	Marionette	INFO	Listening on port 58640
+1625807949577	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625807957181	Marionette	INFO	Stopped listening on port 58640
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625807969362	geckodriver	INFO	Listening on 127.0.0.1:58818
+1625807970375	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofile8fbn8u"
+1625807970871	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofile8fbn8u/search.json.mozlz4", (void 0)))
+1625807972443	Marionette	INFO	Listening on port 58825
+1625807972541	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+1625807976967	Marionette	INFO	Stopped listening on port 58825
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000D,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625807990791	geckodriver	INFO	Listening on 127.0.0.1:58977
+1625807990804	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileFDIv08"
+1625807991280	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileFDIv08/search.json.mozlz4", (void 0)))
+1625807993195	Marionette	INFO	Listening on port 58982
+1625807993304	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+1625808002875	Marionette	INFO	Stopped listening on port 58982
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625808014353	geckodriver	INFO	Listening on 127.0.0.1:59144
+1625808014366	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileeF5P8W"
+1625808014720	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nd2yymlj6sz3ys8nc4qx0gsm0000gn/T/rust_mozprofileeF5P8W/search.json.mozlz4", (void 0)))
+1625808016538	Marionette	INFO	Listening on port 59149
+1625808016561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer/c1eed96e08bdec149d2cc155ae00d7531ca99d0d/ssr-static-assets/_next/static/chunks/commons.1973ace653b325ddb38d.js, line 1: unreachable code after return statement
+1625808021239	Marionette	INFO	Stopped listening on port 59149
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
