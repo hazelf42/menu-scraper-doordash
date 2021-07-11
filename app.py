@@ -49,10 +49,11 @@ def handleImage(doordashImgUrl, ):
     reducedImgSize = "400"
     smallerDoordashImgUrl = replaceTextBetween(doordashImgUrl, reducedImgSize)
     response = requests.get(smallerDoordashImgUrl)
-
+    print("Response gotten")
     # Upload it to firebase
     bucket = storage.bucket("menu-buddy-9c09c.appspot.com")
     blob = bucket.blob(f'images/{id}.jpg')
+    print("Blob gotten")
     # should i make separate buckets for each restaurant
     blob.upload_from_string(response.content, content_type='image/jpeg')
 
