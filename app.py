@@ -82,7 +82,7 @@ def scrape_from_url(url):
     page = browser.get(url)
     wait(browser, 10).until(
         lambda browser: browser.find_element_by_tag_name("h1"))
-    time.sleep(120)
+    # time.sleep(120)
     soup = BeautifulSoup(browser.page_source, 'lxml')
     categories = {"uncategorized": {
         "name": "uncategorized", "description": "", "dishes": []}}
@@ -137,11 +137,11 @@ def scrape_from_url(url):
             except:
                 pass
             # try:
-            img = button.findAll("img")
-            print(img)
-            if len(img) > 0:
-                print(handleImage(img[0]['srcset'].split()[0]))
-                dish["imageUrl"] = handleImage(img[0]['srcset'].split()[0])
+            # img = button.findAll("img")
+            # print(img)
+            # if len(img) > 0:
+            #     print(handleImage(img[0]['srcset'].split()[0]))
+            #     dish["imageUrl"] = handleImage(img[0]['srcset'].split()[0])
             # except:
             #     pass
         if catName not in categories:
