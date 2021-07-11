@@ -82,7 +82,7 @@ def scrape_from_url(url):
     page = browser.get(url)
     wait(browser, 10).until(
         lambda browser: browser.find_element_by_tag_name("h1"))
-    time.sleep(20)
+    time.sleep(120)
     soup = BeautifulSoup(browser.page_source, 'lxml')
     categories = {"uncategorized": {
         "name": "uncategorized", "description": "", "dishes": []}}
