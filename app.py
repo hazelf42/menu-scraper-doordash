@@ -15,6 +15,7 @@ import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import storage
 import uuid
+import time
 
 
 def cleanPrice(price):
@@ -81,7 +82,7 @@ def scrape_from_url(url):
     page = browser.get(url)
     wait(browser, 10).until(
         lambda browser: browser.find_element_by_tag_name("h1"))
-
+    time.sleep(20)
     soup = BeautifulSoup(browser.page_source, 'lxml')
     categories = {"uncategorized": {
         "name": "uncategorized", "description": "", "dishes": []}}
@@ -164,6 +165,9 @@ def scrape_from_url(url):
 
 
 # uncomment me
+# cred = credentials.Certificate(
+#     './menu-buddy-9c09c-firebase-adminsdk-x7p8i-37b112465c.json')
+# firebase_admin.initialize_app(cred)
 # scrape_from_url(
 #     "https://www.doordash.com/store/cactus-club-cafe-victoria-894725")
 
@@ -171,7 +175,7 @@ def scrape_from_url(url):
 # Comment me out
 cred = credentials.Certificate(
     './menu-buddy-9c09c-firebase-adminsdk-x7p8i-37b112465c.json')
-app = firebase_admin.initialize_app(cred)
+firebase_admin.initialize_app(cred)
 app = Flask(__name__)
 CORS(app)
 
