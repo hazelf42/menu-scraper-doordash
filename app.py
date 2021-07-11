@@ -135,7 +135,9 @@ def scrape_from_url(url):
                 pass
             # try:
             img = button.findAll("img")
+            print("Img found")
             if len(img) > 0:
+                print(handleImage(img[0]['srcset'].split()[0]))
                 dish["imageUrl"] = handleImage(img[0]['srcset'].split()[0])
             # except:
             #     pass
