@@ -73,9 +73,8 @@ def scrape_from_url(url):
         executable_path=os.environ.get("CHROMEDRIVER_PATH"),
         options=chrome_options
     )
-    # Uncomment me out:
+    # # Uncomment me out:
     # browser = webdriver.Firefox()
-
     session = HTMLSession()
     page = browser.get(url)
     wait(browser, 10).until(
@@ -135,9 +134,9 @@ def scrape_from_url(url):
             except:
                 pass
             # try:
-            #     img = button.findAll("img")
-            #     if len(img) > 0:
-            #         dish["imageUrl"] = handleImage(img[0]['srcset'].split()[0])
+            img = button.findAll("img")
+            if len(img) > 0:
+                dish["imageUrl"] = handleImage(img[0]['srcset'].split()[0])
             # except:
             #     pass
         if catName not in categories:
@@ -156,12 +155,13 @@ def scrape_from_url(url):
     except:
         pass
     browser.close()
+    print(categories)
     return(categories)
 
 
 # uncomment me
 # scrape_from_url(
-    # "https://www.doordash.com/store/cactus-club-cafe-victoria-894725")
+#     "https://www.doordash.com/store/cactus-club-cafe-victoria-894725")
 
 
 # Comment me out
@@ -176,5 +176,4 @@ CORS(app)
 def render(urlExtension):
     url = "https://www.doordash.com/store/" + urlExtension
     categories = scrape_from_url(url)
-    print("Returning!")
     return jsonify(categories), 201
