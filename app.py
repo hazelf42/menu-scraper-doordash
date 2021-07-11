@@ -47,6 +47,7 @@ def handleImage(doordashImgUrl, ):
     id = uuid.uuid4()
 
     reducedImgSize = "400"
+    print("handling...")
     smallerDoordashImgUrl = replaceTextBetween(doordashImgUrl, reducedImgSize)
     response = requests.get(smallerDoordashImgUrl)
     print("Response gotten")
